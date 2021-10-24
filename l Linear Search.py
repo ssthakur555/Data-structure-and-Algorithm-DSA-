@@ -1,6 +1,6 @@
 def binarySearch(array, target):
-  for i in range(len(lst)):
-    if target==lst[i]:
+  for i in range(len(array)):
+    if target==array[i]:
         return(target,"is in index number",i)
     else:
         return('''it 
